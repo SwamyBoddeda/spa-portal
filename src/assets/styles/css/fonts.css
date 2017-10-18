@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PTSans-Regular';
+    src: url('../fonts/PTSans-Regular.eot') format('eot'), 
+         url('../fonts/PTSans-Regular.otf') format('otf'), 
+         url('../fonts/PTSans-Regular.svg') format('svg'), 
+         url('../fonts/PTSans-Regular.ttf') format('truetype'), 
+         url('../fonts/PTSans-Regular.woff') format('woff'), 
+         url('../fonts/PTSans-Regular.woff2') format('woff2');
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="50px" viewBox="0 0 64 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>Updating building values</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Updating-building-values">
+            <g id="Group" transform="translate(2.000000, 6.000000)">
+                <g id="Group-Copy" transform="translate(21.350711, 4.000000)">
+                    <path d="M1,5.704297 L1,31.0063493 L21,31.0063493 L21,5.704297 L11,2.03017538 L1,5.704297 Z" id="Rectangle-3" stroke="#041E41" stroke-width="2"></path>
+                    <rect id="Rectangle-3-Copy" stroke="#041E41" stroke-width="2" x="20.9958406" y="19.0063493" width="15.0529699" height="12"></rect>
+                    <rect id="Rectangle-4" fill="#041E41" x="5" y="9" width="12.0017831" height="2"></rect>
+                    <rect id="Rectangle-4-Copy-2" fill="#041E41" x="5" y="15" width="4" height="4"></rect>
+                    <rect id="Rectangle-4-Copy-4" fill="#041E41" x="25" y="22" width="2" height="2"></rect>
+                    <rect id="Rectangle-4-Copy-6" fill="#041E41" x="26.5145259" y="26.5" width="4.01559933" height="4.01559933"></rect>
+                    <rect id="Rectangle-4-Copy-5" fill="#041E41" x="30" y="22" width="2" height="2"></rect>
+                    <rect id="Rectangle-4-Copy-3" fill="#041E41" x="13.0017831" y="15" width="4" height="4"></rect>
+                    <rect id="Rectangle-4-Copy-8" fill="#041E41" x="7.96171401" y="24" width="6" height="7"></rect>
+                </g>
+                <g id="Page-1" transform="translate(0.409753, 0.264366)" stroke="#041E41" stroke-width="1.5">
+                    <g id="Group-20" transform="translate(0.000000, 0.076952)">
+                        <path d="M16.3098895,9.45699999 C15.7791,12.8393373 12.8520464,15.4264543 9.32062538,15.4264543 C5.70534472,15.4264543 2.72334864,12.7143512 2.2979459,9.21377501" id="Stroke-10"></path>
+                        <path d="M2.34100026,6.18806758 C2.89588737,2.83432606 5.8097676,0.276447519 9.32062538,0.276447519 C12.932693,0.276447519 15.9127613,2.9834098 16.3426623,6.47916643" id="Stroke-12"></path>
+                        <polyline id="Stroke-16" transform="translate(2.297946, 6.079617) rotate(10.000000) translate(-2.297946, -6.079617) " points="4.30382905 5.21097883 2.2979459 6.94825421 0.292062755 5.21097883"></polyline>
+                        <polyline id="Stroke-18" transform="translate(16.309890, 9.590380) rotate(-345.000000) translate(-16.309890, -9.590380) " points="14.3040064 10.4590179 16.3098895 8.72174251 18.3157727 10.4590179"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

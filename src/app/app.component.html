@@ -1,0 +1,34 @@
+<!--<img class="img-responsive" src="assets/images/logo.jpg">-->
+
+<div class="container"></div>
+<nav>
+<mat-list class="sa-assistance-list">
+    <mat-list-item>
+
+      <span class="sa-assistance subheading">Have Questions?</span>
+
+      </mat-list-item>
+    <mat-list-item>
+      <span class="sa-assistance">
+        <i class="material-icons" aria-hidden="true">email</i>
+       <a (click)="emailPopup()"  class="displInline"> <span class="leftHelpSpan">E-mail</span></a>
+      </span>
+    </mat-list-item>
+    <mat-list-item>
+      <span class="sa-assistance">
+        <i class="material-icons">chat</i>
+        <a name="chat" tabindex="-1" class="displInline"  href="https://stateauto.webex.com/stateauto/supportcenter/webacd.wbx?WQID=4f61cec0e34e18361ac8eb211f139c15" onclick="window.open(this.href, '_blank','toolbar=no,menubar=no,status=yes,scrollbars=yes,resizable=yes,width=500,height=500 top=80,left=120'); return false;"> <span class="leftHelpSpan">Chat</span></a>
+      </span>
+    </mat-list-item>
+    <mat-list-item>
+      <span class="sa-assistance">
+        <i class="material-icons">phone</i>
+       <a name="phone-number" class="displInline subheading"> <span class="leftHelpSpan">800-288-4425</span></a>
+      </span>
+    </mat-list-item>
+  </mat-list>
+</nav>
+
+
+
+<router-outlet></router-outlet>

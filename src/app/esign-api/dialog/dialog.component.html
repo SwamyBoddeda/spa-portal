@@ -1,0 +1,12 @@
+<b>{{ title }}</b>
+<p>{{ message }}</p>
+
+
+<p style="color:red" [hidden]="!valueIncorrect">The answer is incorrect! You will have one more question to verify your identity.</p>
+
+<app-question></app-question>
+
+<span style="color:blue">{{status}} - {{questions.applicationName}}</span>
+
+<button type="button" mat-raised-button 
+    (click)="dialogSubmit(false)" style="float:right">Submit</button>
